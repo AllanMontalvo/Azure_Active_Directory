@@ -84,3 +84,16 @@ Procedure on how to setup and deploy Active Directory on Azure.
 - Run a script call Generate-Names-Create-Users.ps1 [(Josh Madokor's source code)](https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1)
 - Once finished, open Active Directory Users and Computer and observe new users under "_EMPLOYEES"
 - Log into Client-1 with one of the new users created.
+
+<h2>Final Notes</h2>
+
+In conclusion, this project successfully demonstrated the implementation of Active Directory within a cloud-based 
+infrastructure using Microsoft Azure. From creating virtual machines and configuring networks to deploying users 
+into the domain, the project reflected typical processes found in an enterprise IT environment. Virtual machines 
+were configured, a domain was established, and user accounts were created and tested for domain access.
+
+<br />
+This project not only reinforced core concepts of networking and directory management, but also showcased the
+capabilities of Azure in replicating traditional on-premises environments in the cloud. This project has provided
+me with a deeper understanding of the processes and procedures involved in deploying and implementing Active Directory,
+as well as utilizing cloud infrastructure like Azure.
