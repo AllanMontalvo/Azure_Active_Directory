@@ -61,7 +61,8 @@ Procedure on how to setup and deploy Active Directory on Azure.
 
 - Copy IP address of "DC-1" on Azure and login to the virtual machine by remote desktop connection.
 - On Windows search bar, enter "Run" and type wf.msc 
-- On Windows Firewall, select "Windows Defender Firewall Properties" and under each tab turn off the firewall state.
+- On Windows Firewall, select "Windows Defender Firewall Properties" and under each tab turn, off the firewall state.
+	- (Not recommanded for real life application but only for lab purpose.)
 <img width="539" alt="Firewall disable" src="https://github.com/user-attachments/assets/043b7047-d2c5-41de-905f-c9e4023df8ab" />
 
 - Copy IP address of "Client-1" on Azure and login to the virtual machine by remote desktop connection.
