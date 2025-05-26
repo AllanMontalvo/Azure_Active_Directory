@@ -91,6 +91,7 @@ Procedure on how to setup and deploy Active Directory on Azure.
 - Open "Active Direcoty Users and Computer" in DC-1.
 - Create new Organiztional Unit call "_EMPLOYEES".
 - Create a new employee name "Jane Doe" with user name "jane.doe" and a password "Password1234".
+	- Select "Password never expires" for lab purposes.
 - Add "jane.doe" to the "Domain Admins" Security Group under "Member of" tab.
 <img width="455" alt="Jane Doe creation" src="https://github.com/user-attachments/assets/664c0a66-5f7f-4b62-b927-d3c44eda901f" />
 
